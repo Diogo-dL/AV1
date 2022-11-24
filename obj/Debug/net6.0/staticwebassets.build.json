@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "xjgT1OxYB+GthHx33hxVUNlZonlWThygPFzJosMICmg=",
+  "Hash": "FrrfMz4yyPsBinl8vpip6Ckg5CmaCyOZgmy74AU9QxA=",
   "Source": "ATV 1",
   "BasePath": "_content/ATV 1",
   "Mode": "Default",
@@ -83,6 +83,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\diogo\\Documents\\ADS\\DICIPLINAS 2 SEM\\3_PESQUISA E ORDENACAO\\ATV 1\\wwwroot\\images\\Photo01.jpg",
+      "SourceId": "ATV 1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\diogo\\Documents\\ADS\\DICIPLINAS 2 SEM\\3_PESQUISA E ORDENACAO\\ATV 1\\wwwroot\\",
+      "BasePath": "_content/ATV 1",
+      "RelativePath": "images/Photo01.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Photo01.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\diogo\\Documents\\ADS\\DICIPLINAS 2 SEM\\3_PESQUISA E ORDENACAO\\ATV 1\\wwwroot\\images\\Photo02.jpg",
+      "SourceId": "ATV 1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\diogo\\Documents\\ADS\\DICIPLINAS 2 SEM\\3_PESQUISA E ORDENACAO\\ATV 1\\wwwroot\\",
+      "BasePath": "_content/ATV 1",
+      "RelativePath": "images/Photo02.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Photo02.jpg"
     },
     {
       "Identity": "C:\\Users\\diogo\\Documents\\ADS\\DICIPLINAS 2 SEM\\3_PESQUISA E ORDENACAO\\ATV 1\\wwwroot\\js\\site.js",
